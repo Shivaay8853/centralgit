@@ -1,0 +1,2 @@
+# centralgit
+for status sayari
